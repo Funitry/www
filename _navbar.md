@@ -1,9 +1,9 @@
-* [首页]()
-* 关于
-  * [后台管理](?id=调试)
-  * [小程序端](?id=单元测试)
+* [Home](#/)
+* About
+  * [About Us](?id=调试)
+  * [Support](?id=单元测试)
 
-* 下载
-  * [后台平台](https://github.com/Jackson0714/PassJava-Platform)
-  * [后台管理](https://github.com/Jackson0714/PassJava-Portal)
-  * [学习教程](https://github.com/Jackson0714/PassJava-Learning)
+* Download
+  * [iOS](https://github.com/Jackson0714/PassJava-Platform)
+  * [Google Play](https://github.com/Jackson0714/PassJava-Portal)
+  * [Android](https://github.com/Jackson0714/PassJava-Portal)
