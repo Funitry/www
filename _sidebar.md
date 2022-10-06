@@ -1,4 +1,4 @@
-- 用户协议与隐私政策
+- Legal
   - [※ Privacy Policy](PrivacyPolicy.md) 
   - [※ Terms of Service](TermsOfService.md) 
   
