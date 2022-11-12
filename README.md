@@ -1,3 +1,3 @@
-## Welcome to TD. Curling!
+## Welcome to Dash Curling.
 
 Welcome!
